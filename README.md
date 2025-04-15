@@ -1,3 +1,7 @@
+<!-- Start the Project using -->
+chmod +x start.sh
+./start.sh
+
 # Student Information System
 
 A Java project demonstrating Object-Oriented Programming principles including:
