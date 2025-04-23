@@ -1,10 +1,16 @@
+
+
+# Student Information System
+
+# To start the project in terminal run the following commands
+
 <!-- Start the Project using on Mac or Linux Devices -->
 ```bash
 chmod +x start.sh
 ./start.sh
 ```
 
-# Student Information System
+# Details about the project 
 
 A comprehensive Java-based application designed to manage student records, courses, and grades with a user-friendly graphical interface and persistent data storage.
 
